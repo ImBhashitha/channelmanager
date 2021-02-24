@@ -42,9 +42,9 @@ def map(pos):
             [InlineKeyboardButton(text = '-->', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "https://t.me/inukaasith"
+        url = "https://t.me/imjanindu"
         button = [
-            [InlineKeyboardButton(text = 'Keep in touch with technology', url="https://infinityje.com")],
+            [InlineKeyboardButton(text = 'Keep in touch with bot technology', url="https://t.me/Infinity_BOTs")],
             [InlineKeyboardButton(text = 'Contact developer', url=url)],
             [InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")]
         ]
