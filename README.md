@@ -7,6 +7,6 @@
 ## Deploy
 
 ### Configuration
-Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/apps), [BOT_TOKEN](https://t.me/botfather) in [Config.py](Config.py) or in Environment Variables.
+<b>Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/apps), [BOT_TOKEN](https://t.me/botfather) in [Config.py](Config.py) or in Environment Variables.</b>
 
-### Special Thanks [Viperadnan](https://github.com/viperadnan-git/force-subscribe-telegram-bot) and [Daisy-X](https://github.com/InukaAsith/Daisy-X)
+### Special Thanks For [Viperadnan](https://github.com/viperadnan-git/force-subscribe-telegram-bot) and [Daisy-X](https://github.com/InukaAsith/Daisy-X)
