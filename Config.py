@@ -30,7 +30,7 @@ class Messages():
         
         "**Commmands**\n__/ForceSubscribe - To get the current settings.\n/ForceSubscribe no/off/disable - To turn of ForceSubscribe.\n/ForceSubscribe {channel username} - To turn on and setup the channel.\n/ForceSubscribe clear - To unmute all members who muted by me.\n\nNote: /FSub is an alias of /ForceSubscribe__",
         
-        "**Developed by @InukaASiTH**"
+        "**Developed by @ImJanindu**"
       ]
 
       START_MSG = "**Hey [{}](tg://user?id={})**\n__ඔයාගෙ ගෲප් එකේ මෙම්බර්ස්ල Channel එකක් හෝ කිහිපයක් Subscribe කරනකන් Message දාන එක නවත්තන්න මට පුලූවන්.\nLearn more at /help__"
