@@ -24,7 +24,7 @@ class Messages():
       HELP_MSG = [
         ".",
 
-        "**Mizuki Channel Manageer Robot**\nඔයාගෙ ගෲප් එකේ මෙම්බර්ස්ල Channel එකක් හෝ කිහිපයක් Subscribe කරනකන් Message දාන එක නවත්තන්න මට පුලුවන්.\nසාමාජිකයන් ඔබේ Channel එකට සම්බන්ධ නොවූයේ නම් මම ඔවුන්ව නිශ්ශබ්ද කර channel එකට සම්බන්ධ වන ලෙස පවසන්න සහ බොත්තමක් එබීමෙන් ඔවුන්ව නැවත කතාකිරීමට ඉඩහැරීමට මට පුලුවන්.",
+        "**Mizuki Channel Manager Robot**\nඔයාගෙ ගෲප් එකේ මෙම්බර්ස්ල Channel එකක් හෝ කිහිපයක් Subscribe කරනකන් Message දාන එක නවත්තන්න මට පුලුවන්.\nසාමාජිකයන් ඔබේ Channel එකට සම්බන්ධ නොවූයේ නම් මම ඔවුන්ව නිශ්ශබ්ද කර channel එකට සම්බන්ධ වන ලෙස පවසන්න සහ බොත්තමක් එබීමෙන් ඔවුන්ව නැවත කතාකිරීමට ඉඩහැරීමට මට පුලුවන්.",
         
         "**Setup**\nFirst of all add me in the group as admin with ban users permission and in the channel as admin.\nNote: Only creator of the group can setup me and i will leave the chat if i am not an admin in the chat.",
         
@@ -33,4 +33,4 @@ class Messages():
         "**Developed by @ImJanindu**"
       ]
 
-      START_MSG = "**Hey [{}](tg://user?id={})**\nඔයාගෙ ගෲප් එකේ මෙම්බර්ස්ල Channel එකක් හෝ කිහිපයක් Subscribe කරනකන් Message දාන එක නවත්තන්න මට පුලුවන්.\nLearn more at /help."
+      START_MSG = "**Hey [{}](tg://user?id={})**\nඔයාගෙ ගෲප් එකේ මෙම්බර්ස්ල Channel එකක් හෝ කිහිපයක් Subscribe කරනකන් Message දාන එක නවත්තන්න මට පුලුවන්.\n\nLearn more at /help."
